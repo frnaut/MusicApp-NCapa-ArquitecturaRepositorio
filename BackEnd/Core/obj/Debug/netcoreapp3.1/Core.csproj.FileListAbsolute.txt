@@ -1,0 +1,10 @@
+D:\Desarrollo\Proyectos\MusicApp\BackEnd\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Desarrollo\Proyectos\MusicApp\BackEnd\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+D:\Desarrollo\Proyectos\MusicApp\BackEnd\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+D:\Desarrollo\Proyectos\MusicApp\BackEnd\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Desarrollo\Proyectos\MusicApp\BackEnd\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Desarrollo\Proyectos\MusicApp\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Desarrollo\Proyectos\MusicApp\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Desarrollo\Proyectos\MusicApp\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Desarrollo\Proyectos\MusicApp\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\Desarrollo\Proyectos\MusicApp\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
